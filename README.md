@@ -41,4 +41,4 @@ odin-recipes/
 
 ## Credits
 
-Created by [Your Name] as part of [The Odin Project](https://www.theodinproject.com/)
+Created by siddharth
